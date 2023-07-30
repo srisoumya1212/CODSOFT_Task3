@@ -64,3 +64,12 @@ button:hover{
     width:135px;
     border-radius: 20px;
 }
+@media only screen and (max-width:960px){
+    .calc{
+        height: 90vh;
+    }
+    input{
+        width:270px;
+        height: 120px;
+    }
+}
